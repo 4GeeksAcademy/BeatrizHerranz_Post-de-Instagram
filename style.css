@@ -7,9 +7,9 @@ body {
 .post {
     background-color: white;
 	margin: auto;
-    margin-top: 50px;
-    width: 400px;
-    height: 570px;
+    margin-top: 30px;
+    width: 380px;
+    height: 550px;
 }
 img { 
 	width: 100%;
@@ -27,7 +27,7 @@ img {
     align-items: center;
 }
 .text-content{
-    margin-left: 10px;
+    margin-left: 5px;
 }
 .icon-puntitos {
     margin: 10px;
